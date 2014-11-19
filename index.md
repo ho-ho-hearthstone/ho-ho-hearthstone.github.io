@@ -19,7 +19,10 @@ Plant also einige Stunden Zeit mit ein.
 
 # Anmeldung
 <a name="registration"></a>
-Möglich!
+Schreibt uns einfach eine [E-Mail](mailto:alexander.schneider@hhu.de).
+
+[Hier geht's zur Facebook Veranstaltung](https://www.facebook.com/events/352682484900486/?ref_dashboard_filter=upcoming "Facebook"), wo ihr zusagen könnt. So erhalten auch die anderen Spieler
+einen Überblick über die Teilnehmer:
 
 # Die Regeln
 <a name="rules"></a>
