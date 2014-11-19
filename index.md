@@ -9,9 +9,9 @@ header-img: "img/gvsg.jpg"
 Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten
 das spezielle Fireside Cardback.
 
+<a name="date"></a>
 
 # Wann?
-<a name="date"></a>
 Am 17. Dezember 2014, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
 
 Die Spiele können sehr lange dauern und die Turnierlänge ist abhängig von der Teilnehmerzahl.
@@ -22,15 +22,17 @@ Bringt wenn möglich ein eigenes Spielgerät mit, damit die Spiele schneller von
 
 Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 
-# Anmeldung
 <a name="registration"></a>
+
+# Anmeldung
 Schreibt uns einfach eine [E-Mail](mailto:hearthstone@just-wegi.de) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
 
 [Hier geht's zur Facebook Veranstaltung](https://www.facebook.com/events/352682484900486/?ref_dashboard_filter=upcoming "Facebook"), wo ihr zusagen könnt. So erhalten auch die anderen Spieler
 einen Überblick über die Teilnehmer:
 
-# Die Regeln
 <a name="rules"></a>
+
+# Die Regeln
 Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Alexander / WeGi) abgibt.
 
 Das Turnier besteht aus Swiss-Runden mit anschließenden Endrunden für die Finalspiele. Die Anzahl der Runden hängt von der Teilnehmerzahl ab.
