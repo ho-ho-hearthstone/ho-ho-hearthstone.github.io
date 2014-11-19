@@ -14,10 +14,13 @@ das spezielle Fireside Cardback.
 <a name="date"></a>
 Am 17. Dezember 2014, 16:00 Uhr in der Fachschaft Informatik der Universität Düsseldorf.
 
-# Die Regeln
-<a name="rules"></a>
-Kommt noch...
+Die Spiele können sehr lange dauern und die Turnierlänge ist abhängig von der Teilnehmerzahl.
+Plant also einige Stunden Zeit mit ein.
 
 # Anmeldung
 <a name="registration"></a>
 Möglich!
+
+# Die Regeln
+<a name="rules"></a>
+Kommt noch...
