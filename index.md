@@ -15,5 +15,9 @@ das spezielle Fireside Cardback.
 Am 17. Dezember 2014, 16:00 Uhr in der Fachschaft Informatik der Universität Düsseldorf.
 
 # Die Regeln
+<a name="rules"></a>
+Kommt noch...
 
 # Anmeldung
+<a name="registration"></a>
+Möglich!
