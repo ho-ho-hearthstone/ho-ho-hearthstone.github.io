@@ -59,3 +59,12 @@ Das Turnier besteht aus Swiss-Runden mit anschließenden Endrunden für die Fina
 
 # And More to Come
 * Wenn ein paar zeitkritische Dinge glatt laufen, dann können wir unter anderem auch Streams und Public Viewing anbieten.
+
+# Sponsoren
+![HHU-FSCS](http://i.imgur.com/RG3SZXm.png)
+
+[Fachschaft Informatik](http://hhu-fscs.de): Bereitstellung des Knabberzeugs und der Internet-Infrastruktur.
+
+![Uni Düsseldorf](http://i.imgur.com/Nv1VeCp.gif)
+
+[Heinrich Heine Universität Düsseldorf](http://hhu.de): Bereitstellung der Räume.
