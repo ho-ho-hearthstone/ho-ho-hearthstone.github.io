@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+title: Ho-Ho-Hearthstone
+email: christian.meter@uni-duesseldorf.de
+description: "Tournament"
 baseurl: ""
 url: "https://ho-ho-hearthstone.github.io"
-twitter_username: ChristianMeter
-github_username:  n2o
-facebook_username:  IronSummitMedia
+twitter_username:
+github_username:
+facebook_username:  events/352682484900486/?ref_dashboard_filter=upcoming
 
 # Build settings
 markdown: kramdown

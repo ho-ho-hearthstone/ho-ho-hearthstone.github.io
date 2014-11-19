@@ -1,8 +1,13 @@
 ---
 layout: page
-description: "Ho-Ho-Hearthstone"
-header-img: "img/home-bg.jpg"
+description: "Tournament"
+header-img: "img/gvsg.jpg"
 ---
+
+<div>
+    Test
+</div>
+
 
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -16,7 +21,7 @@ header-img: "img/home-bg.jpg"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Erstellt von {{ post.author }} am {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}

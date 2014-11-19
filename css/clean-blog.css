@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -135,7 +135,6 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -147,7 +146,7 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 150px 0;
+    padding: 20px 0 320px 0;
   }
 }
 .intro-header .site-heading,
@@ -165,8 +164,11 @@ hr.small {
   line-height: 1.1,
 			display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 200;
   margin: 10px 0 0;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
@@ -394,4 +396,5 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+  background: transparent url("body-content-bg.jpg") 50% 0 repeat-y;
 }
