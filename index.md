@@ -27,15 +27,12 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 # Anmeldung
 Schreibt uns einfach eine [E-Mail](mailto:hearthstone@just-wegi.de) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
 
+## Facebook Veranstaltung
+
 [Hier geht's zur Facebook Veranstaltung](https://www.facebook.com/events/352682484900486/?ref_dashboard_filter=upcoming "Facebook"), wo ihr zusagen könnt. So erhalten auch die anderen Spieler
 einen Überblick über die Teilnehmer:
 
 <a name="rules"></a>
-
-## Facebook Veranstaltung
-
-Es gibt eine Facebook Veranstaltung dazu. Dort können euch Informationen direkt live erreichen und jeder
-erhält einen groben Überblick, wer und wie viele Personen zur Veranstaltung kommen werden: [Link](https://www.facebook.com/events/352682484900486)
 
 # Die Regeln
 Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Alexander / WeGi) abgibt.
