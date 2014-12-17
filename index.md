@@ -9,6 +9,13 @@ header-img: "img/gvsg.jpg"
 Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten
 das spezielle Fireside Cardback.
 
+# Neuigkeiten
+Hier seht ihr die Turnierbrackets und immer eure aktuellen Gegner und Ergebnisse.
+
+
+http://battlefy.com/wegi/ho-ho-hearthstone/54918321f1b1074600c823a1
+
+
 <a name="date"></a>
 
 # Wann?
