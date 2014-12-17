@@ -13,7 +13,7 @@ das spezielle Fireside Cardback.
 Hier seht ihr die Turnierbrackets und immer eure aktuellen Gegner und Ergebnisse.
 
 
-http://battlefy.com/wegi/ho-ho-hearthstone/54918321f1b1074600c823a1
+[Link zu Battlefly.con](http://battlefy.com/wegi/ho-ho-hearthstone/54918321f1b1074600c823a1/info)
 
 
 <a name="date"></a>
