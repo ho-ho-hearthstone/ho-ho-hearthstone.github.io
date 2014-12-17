@@ -34,6 +34,8 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 # Anmeldung
 Schreibt uns einfach eine [E-Mail](mailto:hearthstone@just-wegi.de) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
 
+## Facebook Veranstaltung
+
 [Hier geht's zur Facebook Veranstaltung](https://www.facebook.com/events/352682484900486/?ref_dashboard_filter=upcoming "Facebook"), wo ihr zusagen könnt. So erhalten auch die anderen Spieler
 einen Überblick über die Teilnehmer:
 
@@ -72,10 +74,9 @@ Das Turnier besteht aus Swiss-Runden mit anschließenden Endrunden für die Fina
 * Wenn ein paar zeitkritische Dinge glatt laufen, dann können wir unter anderem auch Streams und Public Viewing anbieten.
 
 # Sponsoren
-![HHU-FSCS](http://i.imgur.com/RG3SZXm.png)
+<img src="img/hhufscs.png" height="150px" alt="hhu-fscs">
+<img src="img/hhu.png" height="120px" alt="hhu">
 
 [Fachschaft Informatik](http://hhu-fscs.de): Bereitstellung des Knabberzeugs und der Internet-Infrastruktur.
-
-![Uni Düsseldorf](http://i.imgur.com/Nv1VeCp.gif)
 
 [Heinrich Heine Universität Düsseldorf](http://hhu.de): Bereitstellung der Räume.
