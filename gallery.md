@@ -8,6 +8,12 @@ header-img: "img/gvsg.jpg"
 <script src="../js/lightbox.min.js"></script>
 <link href="../css/lightbox.css" rel="stylesheet" />
 
+<style media="screen">
+	img {
+		padding: 0.25em;
+	}
+</style>
+
 <p>Ho-Ho-Hearthstone Galerie</p>
 
 <a href="../img/hohohearthstone/hohohearthstone-1.jpg" data-lightbox="1" title="Ho-Ho-Hearthstone">
