@@ -5,8 +5,8 @@ header-img: "img/gvsg.jpg"
 ---
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="/js/lightbox.min.js"></script>
-<link href="/css/lightbox.css" rel="stylesheet" />
+<script src="../js/lightbox.min.js"></script>
+<link href="../css/lightbox.css" rel="stylesheet" />
 
 <p>Ho-Ho-Hearthstone Galerie</p>
 
