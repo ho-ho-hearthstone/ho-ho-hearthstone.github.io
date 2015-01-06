@@ -10,6 +10,6 @@ header-img: "img/gvsg.jpg"
 
 <p>Ho-Ho-Hearthstone Gallerie</p>
 
-<a href="img/hohohearthstone/hohohearthstone-1.jpg" title="Ho-Ho-Hearthstone">
-	<img src="img/hohohearthstone/hohohearthstone-1.jpg">
+<a href="../img/hohohearthstone/hohohearthstone-1.jpg" title="Ho-Ho-Hearthstone">
+	<img src="../img/hohohearthstone/hohohearthstone-thumb-1.jpg">
 </a>
