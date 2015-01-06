@@ -11,6 +11,13 @@ das spezielle Fireside Cardback.
 
 <a name="date"></a>
 
+# Rückblick
+Das Turnier ist vorbei, es war wirklich spannend und wir haben uns sehr über alle Teilnehmer
+gefreut! Vielen Dank, dass ihr da war, es war wirklich gut.
+
+## Gallerie
+Mittlerweile gibt es auch eine [Gallerie](gallery.html) mit den Fotos des Turniers.
+
 # Wann?
 Am 17. Dezember 2014, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
 
