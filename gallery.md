@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Gallerie"
+description: "Galerie"
 header-img: "img/gvsg.jpg"
 ---
 
@@ -10,18 +10,6 @@ header-img: "img/gvsg.jpg"
 
 <p>Ho-Ho-Hearthstone Gallerie</p>
 
-{% for gallery in site.data.galleries %}
-	<h1>{{ gallery.description }}</h1>
-	<ol>
-		{% for image in gallery.images %}
-			<li>
-				{{ image.text }}<br>
-				<a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-					<img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-				</a>
-			</li>
-		{% endfor %}
-	</ol>
-{% endfor %}
-
-<p>default footer for all gallery pages</p>
+<a href="img/hohohearthstone/hohohearthstone-1.jpg" title="Ho-Ho-Hearthstone">
+	<img src="img/hohohearthstone/hohohearthstone-1.jpg">
+</a>
