@@ -14,7 +14,7 @@ Das Turnier ist vorbei, es war wirklich spannend und wir haben uns sehr über al
 gefreut! Vielen Dank, dass ihr da war, es war wirklich gut.
 
 ## Galerie
-Mittlerweile gibt es auch eine [Galerie](gallery.html) mit den Fotos des Turniers.
+Mittlerweile gibt es auch eine [Galerie](gallery/) mit den Fotos des Turniers.
 
 <hr>
 

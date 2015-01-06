@@ -10,7 +10,7 @@ header-img: "img/gvsg.jpg"
 
 <style media="screen">
 	img {
-		padding: 0.25em;
+		padding: 0.2em;
 	}
 </style>
 
