@@ -8,8 +8,8 @@ header-img: "img/gvsg.jpg"
 <script src="/js/lightbox.min.js"></script>
 <link href="/css/lightbox.css" rel="stylesheet" />
 
-<p>Ho-Ho-Hearthstone Gallerie</p>
+<p>Ho-Ho-Hearthstone Galerie</p>
 
-<a href="../img/hohohearthstone/hohohearthstone-1.jpg" title="Ho-Ho-Hearthstone">
+<a href="../img/hohohearthstone/hohohearthstone-1.jpg" data-lightbox="1" title="Ho-Ho-Hearthstone">
 	<img src="../img/hohohearthstone/hohohearthstone-thumb-1.jpg">
 </a>

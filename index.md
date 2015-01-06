@@ -13,8 +13,8 @@ das spezielle Fireside Cardback.
 Das Turnier ist vorbei, es war wirklich spannend und wir haben uns sehr über alle Teilnehmer
 gefreut! Vielen Dank, dass ihr da war, es war wirklich gut.
 
-## Gallerie
-Mittlerweile gibt es auch eine [Gallerie](gallery.html) mit den Fotos des Turniers.
+## Galerie
+Mittlerweile gibt es auch eine [Galerie](gallery.html) mit den Fotos des Turniers.
 
 <hr>
 
