@@ -10,30 +10,25 @@ Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und 
 das spezielle Fireside Cardback.
 
 # Rückblick
-Das Turnier ist vorbei, es war wirklich spannend und wir haben uns sehr über alle Teilnehmer
-gefreut! Vielen Dank, dass ihr da war, es war wirklich gut.
-
-## Galerie
-Mittlerweile gibt es auch eine [Galerie](gallery/) mit den Fotos des Turniers.
+Es steht ein neues Turnier vor der Tür, doch vom alten Turnier ist nichts verloren! [Hier](index2014/) gelangt ihr auf die alte Hauptseite.
 
 <hr>
 
 # Neuigkeiten
-Hier seht ihr die Turnierbrackets und immer eure aktuellen Gegner und Ergebnisse.
-
-[Link zu Battlefly.con](http://battlefy.com/wegi/ho-ho-hearthstone/54918321f1b1074600c823a1/info)
+Diese Seite wird noch zusammengebaut, doch hier werdet ihr schon bald Informationen zum Turnier finden.
+Solange hier noch nichts los ist, kann man schonmal die Seite auf [battlefy](http://battlefy.com/ho-ho-hearthstone/ho-ho-hearthstone/5660cecdff4b3b4a003a4a65/info) ansehen, auf welcher das Bracket veroeffentlicht wird und die Spieler ihren Erfolg begutachten koennen!!
 
 
 <a name="date"></a>
 
 # Wann?
-Am 17. Dezember 2014, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
+Am 11. Dezember 2015, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
 
 Die Spiele können sehr lange dauern und die Turnierlänge ist abhängig von der Teilnehmerzahl.
 Plant also einige Stunden Zeit mit ein.
 
 # Voraussetzungen
-Bringt wenn möglich ein eigenes Spielgerät mit, damit die Spiele schneller von statten gehen. Wir werden auch 2 Laptops zur Verfügung stellen, aber schöner wäre es, wenn ihr selber welche mitbringt.
+Bringt wenn möglich ein eigenes Spielgerät mit, damit die Spiele schneller von statten gehen.
 
 Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 
@@ -44,34 +39,24 @@ Schreibt uns einfach eine [E-Mail](mailto:hearthstone@just-wegi.de) damit wir wi
 
 ## Facebook Veranstaltung
 
-[Hier geht's zur Facebook Veranstaltung](https://www.facebook.com/events/352682484900486/?ref_dashboard_filter=upcoming "Facebook"), wo ihr zusagen könnt. So erhalten auch die anderen Spieler
-einen Überblick über die Teilnehmer:
+[Hier](#), wird demnaechst ein Link zu der Facebook Veranstaltung Ho-Ho-Hearthstone stehen, wo ihr euch zusaetzlich anmelden koennt, damit auch andere Spieler hiervon mitbekommen und man als Spieler auch einen Ueberblick bekommt wer alles dabei sein wird.
 
 <a name="rules"></a>
 
 # Die Regeln
-Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Alexander / WeGi) abgibt.
+Die Regeln werden dieses Jahr anders sein, als letztes Jahr.
+Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / ?) abgibt.
 
-Das Turnier besteht aus Swiss-Runden mit anschließenden Endrunden für die Finalspiele. Die Anzahl der Runden hängt von der Teilnehmerzahl ab.
+Das Turnier besteht Anfangs, je nach Spielerzahl, aus Single-Knockout Runden und im Finale spielen die Kontrahenten dann im Best-of-Three Stil gegeneinander.
 
-* Eine Serie zwischen zwei Spielern besteht aus maximal drei Spielen.
-* Der erste Spieler mit 2 Siegen innerhalb der Serie, gewinnt diese.
-* Der Gewinner eines Spiels *muss* sein Deck behalten.
-* Der Verlierer eines Spiels *muss* zu einem anderen Deck wechseln.
-* Ein Deck, mit dem man ein Spiel verliert, ist den Rest der Serie gesperrt.
+## Single-Knockout
+* Eine Serie zwischen zwei Spielern besteht aus einem Spielen.
 
-## Swiss-Runden
-* Funktioniert nach Tabellen-System.
-* Beide Spieler eröffnen blind mit einem ihrer 3 Decks.
-* Es werden keine Bans durchgeführt.
-* Nach X Runden kommen die ersten Y Spieler der Tabelle in die Endrunden.
-* X und Y hängen von der Teilnehmerzahl ab und werden zu Beginn des Turniers fest gelegt.
-
-## Finalrunden
-* Vor einer Serie nennt man dem Gegner die 3 Klassen seiner Decks.
-* Man schreibt die Klasse, welche man beim Gegner bannen möchte auf ein Stück Papier oder nennt sie dem Admin.
-* Beide Spieler erfahren gleichzeitig, welche ihrer 3 Klassen gebannt wurde.
-* Die Spiele finden dann nach dem üblichen System mit den 2 verbliebenen Decks statt.
+## Finale und dritter Platz
+* Die Spieler spielen maximal 3 Runden, bis einer der Spieler zwei Runden gewonnen hat
+* Die Spieler bannen zu Anfang der Serie eine der drei Klassen des Gegners
+* Danach beginnen die Spieler mit einem der verbleibendem Decks
+* Der Gewinner muss(!) sein Deck behalten und der Verlierer muss(!) das Deck wechseln
 
 # Preise / Verpflegung / Sonstiges
 * Preise werden gerade mit eventuellen Sponsoren verhandelt.
