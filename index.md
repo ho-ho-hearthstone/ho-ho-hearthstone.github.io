@@ -15,9 +15,7 @@ Es steht ein neues Turnier vor der Tür, doch vom alten Turnier ist nichts verlo
 <hr>
 
 # Neuigkeiten
-Diese Seite wird noch zusammengebaut, doch hier werdet ihr schon bald Informationen zum Turnier finden.
-Solange hier noch nichts los ist, kann man schonmal die Seite auf [battlefy](http://battlefy.com/ho-ho-hearthstone/ho-ho-hearthstone/5660cecdff4b3b4a003a4a65/info) ansehen, auf welcher das Bracket veroeffentlicht wird und die Spieler ihren Erfolg begutachten koennen!!
-
+Die Seite fuer dieses Jahr steht! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden koennt.
 
 <a name="date"></a>
 
@@ -35,7 +33,7 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 <a name="registration"></a>
 
 # Anmeldung
-Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHoHeartstone]) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
+Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHoHeartstone]Anmeldung) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können, in der am besten auch eure verwendeten Decks stehen. Mehr zu den Decks erfahrt ihr bei den Regeln.
 
 ## Facebook Veranstaltung
 
