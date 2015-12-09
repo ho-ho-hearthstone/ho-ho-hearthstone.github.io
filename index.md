@@ -37,18 +37,20 @@ Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHo
 
 ## Facebook Veranstaltung
 
-[Hier](#), wird demnaechst ein Link zu der Facebook Veranstaltung Ho-Ho-Hearthstone stehen, wo ihr euch zusaetzlich anmelden koennt, damit auch andere Spieler hiervon mitbekommen und man als Spieler auch einen Ueberblick bekommt wer alles dabei sein wird.
+[Hier](https://www.facebook.com/events/1678386149111162/), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2015", wo ihr euch zusaetzlich anmelden koennt, damit auch andere Spieler hiervon mitbekommen und man als Spieler auch einen Ueberblick bekommt wer alles dabei sein wird.
 
 <a name="rules"></a>
 
 # Die Regeln
 Die Regeln werden dieses Jahr anders sein, als letztes Jahr.
-Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / ?) abgibt.
+Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / Stephan) abgibt.
 
-Das Turnier besteht Anfangs, je nach Spielerzahl, aus Single-Knockout Runden und im Finale spielen die Kontrahenten dann im Best-of-Three Stil gegeneinander.
+Das Turnier wird anfangs im Double Elimination Stil durchgefuehrt im best-of-one Verfahren. In der Finalrunde und im Kampf um den dritten Platz bestreiten die Kontrahenten ihre Spiele à la best-of-three.
 
-## Single-Knockout
-* Eine Serie zwischen zwei Spielern besteht aus einem Spielen.
+## Double Elimination
+* Eine Serie zwischen zwei Spielern besteht aus einem Spiel
+* Der Gewinner bleibt im "Winners-Bracket", der Verlierer rutscht ins "Loosers-Bracket"
+* Wenn man im Loosers-Bracket verliert ist man raus
 
 ## Finale und dritter Platz
 * Die Spieler spielen maximal 3 Runden, bis einer der Spieler zwei Runden gewonnen hat
