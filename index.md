@@ -67,8 +67,8 @@ Das Turnier besteht Anfangs, je nach Spielerzahl, aus Single-Knockout Runden und
 * Wenn ein paar zeitkritische Dinge glatt laufen, dann können wir unter anderem auch Streams und Public Viewing anbieten.
 
 # Sponsoren
-<img src="img/hhufscs.png" height="150px" alt="hhu-fscs">
-<img src="img/hhu.png" height="120px" alt="hhu">
+<img src="{{ site.baseurl }}/img/hhufscs.png" height="150px" alt="hhu-fscs">
+<img src="{{ site.baseurl }}/img/hhu.png" height="120px" alt="hhu">
 
 [Fachschaft Informatik](http://hhu-fscs.de): Bereitstellung des Knabberzeugs und der Internet-Infrastruktur.
 
