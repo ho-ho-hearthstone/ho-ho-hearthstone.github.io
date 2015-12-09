@@ -43,7 +43,7 @@ Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHo
 
 # Die Regeln
 Die Regeln werden dieses Jahr anders sein, als letztes Jahr.
-Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / Stephan) abgibt.
+Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:hearthstone@just-wegi.de) übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / Stefan) abgibt.
 
 Das Turnier wird anfangs im Double Elimination Stil durchgefuehrt im best-of-one Verfahren. In der Finalrunde und im Kampf um den dritten Platz bestreiten die Kontrahenten ihre Spiele à la best-of-three.
 
