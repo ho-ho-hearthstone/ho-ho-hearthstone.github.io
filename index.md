@@ -22,7 +22,7 @@ Solange hier noch nichts los ist, kann man schonmal die Seite auf [battlefy](htt
 <a name="date"></a>
 
 # Wann?
-Am 11. Dezember 2015, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
+Am 18. Dezember 2015, 16:00 Uhr in der [Fachschaft Informatik der Heinrich-Heine-Universität Düsseldorf](https://www.google.de/maps/place/Fachschaft+Informatik+der+Heinrich-Heine-Universit%C3%A4t+D%C3%BCsseldorf/@51.188008,6.796884,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8cb01a3005e3d:0xd8b29e6eb59bb734 "FS Informatik"), Raum 25.12.01.18.
 
 Die Spiele können sehr lange dauern und die Turnierlänge ist abhängig von der Teilnehmerzahl.
 Plant also einige Stunden Zeit mit ein.
@@ -35,7 +35,7 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 <a name="registration"></a>
 
 # Anmeldung
-Schreibt uns einfach eine [E-Mail](mailto:hearthstone@just-wegi.de) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
+Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHoHeartstone]) damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können.
 
 ## Facebook Veranstaltung
 
