@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "Tournament"
-header-img: "img/gvsg2.jpg"
+header-img: "img/gvsg3.jpg"
 ---
 
 ### Busy night... but there's always room for another!
