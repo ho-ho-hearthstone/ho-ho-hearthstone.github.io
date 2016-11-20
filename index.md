@@ -37,7 +37,7 @@ Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]An
 
 ## Facebook Veranstaltung
 
-[Hier (Diese Seite existiert nocht nicht)](www.ho-ho-hearthstone.github.io/#registration), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2016", wo ihr euch zusaetzlich anmelden könnt, damit auch andere Spieler hiervon mitbekommen und man selbst auch einen Überblick bekommt wer alles dabei sein wird.
+[Hier](https://www.facebook.com/events/225431337892950/), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2016", wo ihr euch zusaetzlich anmelden könnt, damit auch andere Spieler hiervon mitbekommen und man selbst auch einen Überblick bekommt wer alles dabei sein wird.
 
 <a name="rules"></a>
 
