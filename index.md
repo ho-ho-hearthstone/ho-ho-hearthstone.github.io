@@ -10,7 +10,7 @@ Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und 
 das spezielle Fireside Cardback.
 
 # Rückblick
-Es steht ein neues Turnier vor der Tür, doch vom alten Turnier ist nichts verloren! [Hier](index2014/) gelangt ihr auf die alte Hauptseite.
+Es steht ein neues Turnier vor der Tür, doch vom alten Turnier ist nichts verloren! Die Hauptseiten der alten Jahre findet ihr immer noch hier: [2015](index2015/) und [2014](index2014/)
 
 <hr>
 
@@ -33,33 +33,31 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 <a name="registration"></a>
 
 # Anmeldung
-Schreibt uns einfach eine [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHoHeartstone]Anmeldung 'Dein Name') damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können, in der am besten auch eure verwendeten Decks stehen. Mehr zu den Decks erfahrt ihr bei den Regeln.
+Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]Anmeldung) mit eurem Namen im Text, damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können. Dieses Jahr ist es nicht notwendig seine Decks mitzuschicken. Die einzige Bedingung wäre, kurz in der Email zu erwähnen, welche Klassen man spielt. Näheres dazu [hier](#rules)
 
 ## Facebook Veranstaltung
 
-[Hier](https://www.facebook.com/events/1678386149111162/), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2015", wo ihr euch zusaetzlich anmelden koennt, damit auch andere Spieler hiervon mitbekommen und man als Spieler auch einen Ueberblick bekommt wer alles dabei sein wird.
+[Hier (Diese Seite existiert nocht nicht)](www.ho-ho-hearthstone.github.io/#registration), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2016", wo ihr euch zusaetzlich anmelden könnt, damit auch andere Spieler hiervon mitbekommen und man selbst auch einen Überblick bekommt wer alles dabei sein wird.
 
 <a name="rules"></a>
 
 # Die Regeln
-Die Regeln werden dieses Jahr anders sein, als letztes Jahr.
-Jeder Teinehmer muss bis zum Beginn des Turnieres 3 Decks einreichen, die aus 3 verschiedenen Klassen bestehen. Das Deck kann man einreichen, indem man die Decklisten entweder per [E-Mail](mailto:johannes.galanjuk@hhu.de?subject=[HoHoHearthstone]Decklisten von 'Dein Name') übermittelt oder ausgedruckt mitbringt und bei der Turnierleitung (Johannes / Stefan) abgibt.
+Jeder Teilnehmer teilt uns (Johannes oder Stefan) bis spätestens vor den ersten Kämpfen mit, mit welchem Klassen er die Kämpfe bestreiten will. Es ist hier dringend zu raten, in der Anmeldungsemail direkt seine Klassen reinzuschreiben, damit dann am großen Tag nicht zu viel gedrängel bei der Turnierleitung sein wird.
 
-Das Turnier wird anfangs im Double Elimination Stil durchgef&uuml;hrt im best-of-one Verfahren. In der Finalrunde und im Kampf um den dritten Platz bestreiten die Kontrahenten ihre Spiele à la best-of-three.
+Zuerst spielen alle Teilnehmer im Double Elimination im Best-of-Three gegeneinander. Das heißt für euch, solltet ihr einmal ein Best-of-Three verlieren habt ihr trotzdem noch die Chance euch hochzukämpfen und euch einen Platz auf dem Treppchen zu sichern. Bei der zweiten Niederlage heißt es aber dann leider Abschied nehmen.
+Die Finalrunden treten die Kontrahenten im epischen und schweißtreibenden Best-of-Five Format gegeneinander an. Macht euch auf einige packende Finalrunden gespannt und feuert euren Favoriten an, während ihr den Finalisten über eine große Leinwand zuseht (Technik noch in arbeit)
 
 ## Double Elimination
-* Eine Serie zwischen zwei Spielern besteht aus einem Spiel
+* Eine Serie zwischen zwei Spielern besteht aus maximal drei Spielen
 * Der Gewinner bleibt im "Winners-Bracket", der Verlierer rutscht ins "Loosers-Bracket"
 * Wenn man im Loosers-Bracket verliert ist man raus
 
 ## Finale und dritter Platz
-* Die Spieler spielen maximal 3 Runden, bis einer der Spieler zwei Runden gewonnen hat
-* Die Spieler bannen zu Anfang der Serie eine der drei Klassen des Gegners
-* Danach beginnen die Spieler mit einem der verbleibendem Decks
-* Der Gewinner muss(!) sein Deck behalten und der Verlierer muss(!) das Deck wechseln
+* Die Spieler spielen maximal 5 Runden gegeneinander
+* Der Gewinner muss sein Deck für das nächste Match behalten und der Verlierer kann sein Deck wechseln
 
 # Preise / Verpflegung / Sonstiges
-* Preise werden gerade mit eventuellen Sponsoren verhandelt.
+* Zu gewinnen gibt es unter anderem Battle.net-Guthaben.
 * Knabberzeug steht kostenfrei zur Verfügung.
 * Getränke können gegen einen Selbstkostenpreis erworben werden.
 
