@@ -4,7 +4,8 @@ description: "Tournament"
 header-img: "img/gvsg3.jpg"
 ---
 
-### Busy night... but there's always room for another!
+# Busy night... 
+## but there's always room for another!
 
 Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten das spezielle Fireside Cardback.
 
@@ -12,6 +13,8 @@ Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und 
 
 # Neuigkeiten
 Die Postämter von Gadgetzan sind nun offen und alle Anmeldung für das jährliche Turnier können entgegen genommen werden! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden koennt.
+
+<hr>
 
 <a name="date"></a>
 
@@ -26,6 +29,8 @@ Bringt wenn möglich ein eigenes Spielgerät mit, damit die Spiele schneller von
 
 Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 
+<hr>
+
 <a name="registration"></a>
 
 # Anmeldung
@@ -34,6 +39,8 @@ Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]An
 ## Facebook Veranstaltung
 
 [Hier](https://www.facebook.com/events/225431337892950/), kommt ihr zu unserer Facebook Veranstaltung "Ho-Ho-Hearthstone 2016", wo ihr euch zusaetzlich anmelden könnt, damit auch andere Spieler hiervon mitbekommen und man selbst auch einen Überblick bekommt wer alles dabei sein wird.
+
+<hr>
 
 <a name="rules"></a>
 
