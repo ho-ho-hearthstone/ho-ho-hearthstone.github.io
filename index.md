@@ -5,6 +5,7 @@ header-img: "img/gvsg3.jpg"
 ---
 
 # Busy night... 
+
 ## but there's always room for another!
 
 Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten das spezielle Fireside Cardback.
