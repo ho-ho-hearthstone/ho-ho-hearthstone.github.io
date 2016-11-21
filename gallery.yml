@@ -1,6 +1,6 @@
 - id: hohohearthstone
   description: Fotos vom Ho-Ho-Hearthstone Turnier am 17.12.2014
-  imagefolder: /img/hohohearthstone
+  imagefolder: /img/hohohearthstone2014
   images:
   - name: hohohearthstone-1.jpg
     thumb: hohohearthstone-thumb-1.jpg

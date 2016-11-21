@@ -6,16 +6,12 @@ header-img: "img/gvsg3.jpg"
 
 ### Busy night... but there's always room for another!
 
-Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten
-das spezielle Fireside Cardback.
-
-# Rückblick
-Es steht ein neues Turnier vor der Tür, doch vom alten Turnier ist nichts verloren! Die Hauptseiten der alten Jahre findet ihr immer noch hier: [2015](index2015/) und [2014](index2014/)
+Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und Teilnehmer erhalten das spezielle Fireside Cardback.
 
 <hr>
 
 # Neuigkeiten
-Die Seite fuer dieses Jahr steht! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden koennt.
+Die Postämter von Gadgetzan sind nun offen und alle Anmeldung für das jährliche Turnier können entgegen genommen werden! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden koennt.
 
 <a name="date"></a>
 
@@ -33,7 +29,7 @@ Denkt auch an eure Passwörter, BattleNet Authenticator etc.
 <a name="registration"></a>
 
 # Anmeldung
-Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]Anmeldung) mit eurem Namen im Text, damit wir wissen mit wie vielen Teilnehmern wir ungefähr rechnen können. Dieses Jahr ist es nicht notwendig seine Decks mitzuschicken. Die einzige Bedingung wäre, kurz in der Email zu erwähnen, welche Klassen man spielt. Näheres dazu [hier](#rules)
+Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]Anmeldung) mit eurem Namen und den drei Klassen, mit denen ihr spielen wollt in den Haupttext. Dieses Jahr ist es nicht notwendig seine Decks mitzuschicken. Näheres dazu [hier](#rules)
 
 ## Facebook Veranstaltung
 
@@ -42,7 +38,7 @@ Schreibt uns einfach eine [E-Mail](mailto:fscs@hhu.de?subject=[HoHoHeartstone]An
 <a name="rules"></a>
 
 # Die Regeln
-Jeder Teilnehmer teilt uns (Johannes oder Stefan) bis spätestens vor den ersten Kämpfen mit, mit welchem Klassen er die Kämpfe bestreiten will. Es ist hier dringend zu raten, in der Anmeldungsemail direkt seine Klassen reinzuschreiben, damit dann am großen Tag nicht zu viel gedrängel bei der Turnierleitung sein wird.
+Jeder Teilnehmer teilt uns (Johannes oder Stefan) bis spätestens vor den ersten Kämpfen mit, mit welchen drei Klassen er die Kämpfe bestreiten will. Es ist hier dringend zu raten, in der Anmeldungsemail seine Klassen reinzuschreiben, damit dann am großen Tag nicht zu viel gedrängel bei der Turnierleitung sein wird.
 
 Zuerst spielen alle Teilnehmer im Double Elimination im Best-of-Three gegeneinander. Das heißt für euch, solltet ihr einmal ein Best-of-Three verlieren habt ihr trotzdem noch die Chance euch hochzukämpfen und euch einen Platz auf dem Treppchen zu sichern. Bei der zweiten Niederlage heißt es aber dann leider Abschied nehmen.
 Die Finalrunden treten die Kontrahenten im epischen und schweißtreibenden Best-of-Five Format gegeneinander an. Macht euch auf einige packende Finalrunden gespannt und feuert euren Favoriten an, während ihr den Finalisten über eine große Leinwand zuseht (Technik noch in arbeit)
@@ -52,7 +48,7 @@ Die Finalrunden treten die Kontrahenten im epischen und schweißtreibenden Best-
 * Der Gewinner bleibt im "Winners-Bracket", der Verlierer rutscht ins "Loosers-Bracket"
 * Wenn man im Loosers-Bracket verliert ist man raus
 
-## Finale und dritter Platz
+## Finale
 * Die Spieler spielen maximal 5 Runden gegeneinander
 * Der Gewinner muss sein Deck für das nächste Match behalten und der Verlierer kann sein Deck wechseln
 
