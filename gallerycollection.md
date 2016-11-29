@@ -6,4 +6,4 @@ header-img: "img/gvsg.jpg"
 
 # All busy nights... 
 
-[Gallery 2014]("http://ho-ho-hearthstone.github.io/gallery")
+[Gallery 2014](/gallery)

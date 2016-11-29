@@ -13,7 +13,7 @@ Macht mit bei unserem Hearthstone-Event! Es ist kostenlos, macht viel Spaß und 
 <hr>
 
 # Neuigkeiten
-Die Postämter von Gadgetzan sind nun offen und alle Anmeldung für das jährliche Turnier können entgegen genommen werden! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden koennt.
+Die Postämter von Gadgetzan sind nun offen und alle Anmeldung für das jährliche Turnier können entgegen genommen werden! Erfahrt unter [Anmeldung](#registration), wie ihr euch fuer das Event anmelden könnt.
 
 <hr>
 
